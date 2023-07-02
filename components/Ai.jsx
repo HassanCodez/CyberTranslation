@@ -49,7 +49,7 @@ export default function Ai({}) {
   }
 
   return (
-    <section className="flex flex-col justify-start gap-5 items-start h-96 px-5">
+    <section className="flex flex-col justify-start gap-5 mt-15 items-start h-96 px-5">
         <p className="text-white">Need more accurate translation?</p>
         <p className="text-white">*use it for the longer texts and if the first method didn't fulfill your needs</p>
             <div className="flex w-full justify-between text-white px-12">
